@@ -20,7 +20,7 @@ body {
 /* Home start */
 header {
     height: 100vh;
-    background: url(./Images/home_bg.jpeg) center center/cover no-repeat;
+    background: url(.../Images/home_bg.jpeg) center center/cover no-repeat;
     color: #fff;
     position: relative;
 
@@ -450,3 +450,4 @@ textarea {
 
 
 /* footer end */
+
